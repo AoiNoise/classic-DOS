@@ -4,4 +4,6 @@ to overcome this DOS, set a User Process Limit(ulimit/other)
 ______________________
 udp_spam.py → send random bytes to target_ip:port, continuously
 
+change desired "target_ip" and "portnum"
+
 (it just dos yourself)
